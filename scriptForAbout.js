@@ -58,7 +58,7 @@ const loadPage = (mainContainer, articles, page, backpage) => {
 };
 
 const getArticles = () => {
-  return fetch("../articles.json").then((res) => res.json());
+  return fetch("articles.json").then((res) => res.json());
 };
 
 const mainContainerContent = (article) => `
