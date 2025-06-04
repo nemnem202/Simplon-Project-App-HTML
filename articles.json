@@ -117,5 +117,44 @@
         }
       ]
     }
+  },
+  {
+    "article": {
+      "title": "Ingrid",
+      "paragraphs": [
+        {
+          "title": "Introduction",
+          "text": "La Central Intelligence Agency (CIA) est l'agence de renseignement étrangère des États-Unis, fondée en 1947. Chargée de collecter, analyser et exploiter des informations sur les gouvernements, entreprises et individus étrangers, elle a joué un rôle central dans la politique internationale durant la Guerre froide. Des documents déclassifiés ont révélé des relations étroites entre la CIA et certains acteurs de la culture populaire, notamment <span class=\"link linkDisplay\">Walt Disney</span> et <span class=\"link linkDisplay\">Mickey Mouse</span>, utilisés comme vecteurs de propagande culturelle et de manipulation de masse."
+        },
+        {
+          "title": "Activités principales",
+          "text": "La CIA mène des opérations clandestines à travers le monde, incluant l'espionnage, la subversion, le soutien à des groupes rebelles ou l'ingérence politique. Elle est connue pour avoir orchestré ou influencé des coups d'État, comme en Iran (1953) ou au Chili (1973). L'organisation possède aussi des divisions spécialisées dans la cyberguerre, la désinformation et le contre-espionnage. La culture populaire, à travers des figures telles que <span class=\"link linkDisplay\">Mickey Mouse</span>, a parfois été exploitée pour diffuser des messages favorables à l'idéologie américaine."
+        },
+        {
+          "title": "Collaboration avec les milieux culturels",
+          "text": "Pendant plusieurs décennies, la CIA a discrètement collaboré avec des artistes, producteurs et studios de cinéma. Walt Disney aurait permis à l'agence d'utiliser certains de ses personnages ou infrastructures pour des actions de soft power à l’étranger. Des archives montrent que la CIA aurait soutenu financièrement des projets de films ou séries mettant en avant des idéaux pro-occidentaux, notamment à travers des contenus destinés à la jeunesse. <span class=\"link linkDisplay\">Walt Disney</span>, avec sa proximité avec les élites politiques américaines, aurait servi d'intermédiaire stratégique dans cette politique d'influence."
+        },
+        {
+          "title": "Polémiques et dérives",
+          "text": "La CIA a été impliquée dans des programmes controversés comme MK-Ultra (expériences de contrôle mental), ainsi que dans la surveillance illégale de citoyens américains. Plusieurs scandales ont éclaté concernant l'utilisation d'œuvres culturelles et de personnages emblématiques à des fins géopolitiques. Le cas de <span class=\"link linkDisplay\">Mickey Mouse</span>, présenté comme un simple héros enfantin, mais instrumentalisé dans des campagnes idéologiques, soulève encore aujourd’hui des questions sur les limites de l'influence culturelle. De même, les liens de <span class=\"link linkDisplay\">Walt Disney</span> avec certaines figures politiques controversées alimentent un débat persistant."
+        }
+      ]
+    },
+    "resumee": {
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Seal_of_the_Central_Intelligence_Agency.svg/640px-Seal_of_the_Central_Intelligence_Agency.svg.png",
+        "alt": "CIA logo",
+        "width": 200,
+        "height": 200
+      },
+      "dates": [
+        { "label": "Fondation", "value": "1947" },
+        { "label": "Fondateur", "value": "Harry S. Truman" },
+        {
+          "label": "Activité",
+          "value": "renseignement, espionnage, propagande culturelle, opérations secrètes"
+        }
+      ]
+    }
   }
 ]
